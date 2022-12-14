@@ -57,6 +57,3 @@ align.close()
 print('consensus sequences fasta successfully written')
 
 
-# increase initial sequence to 5x
-#x reduce sequencing to 5000
-#x try emboss cons to see if consensus is better

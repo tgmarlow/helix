@@ -1,3 +1,7 @@
+# Thomas Marlow
+# Tool to create a consensus alignment from fasta files provided in a directory
+# Padding is provided as needed to ensure sequence lengths are equal
+
 import sys
 from Bio import AlignIO
 from Bio.Align import AlignInfo
